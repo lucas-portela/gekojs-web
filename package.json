@@ -1,6 +1,6 @@
 {
   "name": "@gekojs/web",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Base GeKo genes to build web servers easily.",
   "main": "dist/index.js",
   "scripts": {
